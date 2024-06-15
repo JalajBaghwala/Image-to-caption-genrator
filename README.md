@@ -18,5 +18,5 @@ Generate a caption/description for your image, simple and straight forward using
 * https://unsplash.com/photos/C8eSYwQkwHw
 * https://unsplash.com/photos/PQewPJqNKwQ
 
-### About me
+### Live Link
 https://huggingface.co/spaces/Jalajbaghwala/img-caption
